@@ -83,7 +83,7 @@
 | **Phone** | +8801986474598 |
 | **Primary Email** | amealbrem@gmail.com |
 | **Academic Email** | albreem@iut-dhaka.edu |
-| **Common Username** | tomy |
+| **Common Nickname** | tomy |
 
 ---
 
