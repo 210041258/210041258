@@ -6,7 +6,7 @@
 🌍 *From Khan Yunis, Palestine*  
 🏠 *Lives in Gazipur, Dhaka, Bangladesh*  
 💬 *Relationship Status: It’s Complicated*  
-📅 *Joined: August 2022*  
+📅 *Joined: August 2020*  
 
 ---
 
