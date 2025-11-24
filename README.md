@@ -69,6 +69,8 @@
 | **AppBrain** | [appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1](https://appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1) |
 | **CV (Google Docs)** | [View CV](https://docs.google.com/document/d/1FClX06DcknH0UmGZo-lhZAPtGgSFIMvsM-zgtANyaCA/edit?tab=t.0) |
 | **GoFundMe** | [gofundme.com/f/dr-mohammed-salem-salem-albreem](https://gofundme.com/f/dr-mohammed-salem-salem-albreem) |
+| **Research Gate** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
+| **Scholar Google** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
 | **Tron (TRONX)** | [TronScan](https://tronscan.org/#/address/TPMnWwJjfp9AQZAEijMAnf6AdmiMXziPb9) |
 | **BTC (BTC FEES IS BIT SAME FROM 21)** | [BlockChair](https://blockchair.com/bitcoin/address/1FSk6BNfLzQW3Sdgfae3Ymb4eFUvnVhwbG) |
 ---
