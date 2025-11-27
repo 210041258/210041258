@@ -86,7 +86,6 @@
 | **Phone** | +8801986474598 |
 | **Primary Email** | amealbrem@gmail.com |
 | **Academic Email** | albreem@iut-dhaka.edu |
-| **Common Nickname** | tomy |
 
 ---
 
@@ -96,5 +95,5 @@
 ---
 ## 🧾 Academic Information of <a href="https://github.com/210041258/Writing-Novel/tree/main/SIS-IUT-MARKS" > SIS IUT </a>
 
-<img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://github.com/user-attachments/assets/09468e4e-1d9d-4768-be85-a4e6953bb767" />
+<img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://raw.githubusercontent.com/210041258/Writing-Novel/refs/heads/main/210041258.PNG" />
 
