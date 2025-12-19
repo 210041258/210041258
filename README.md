@@ -94,8 +94,8 @@
 
 ---
 ## 🧾 Academic Information of <a href="https://github.com/210041258/Writing-Novel/tree/main/SIS-IUT-MARKS" > SIS IUT </a>
-|Vales from the pro-5years-ots  : |*Life is not about maintaining a high line —
-it is about surviving discontinuities and creating a new trajectory.*||
+*Quote-Key-broan: Stability is not the objective —
+integrated life value is.*
 
 <img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://raw.githubusercontent.com/210041258/Writing-Novel/refs/heads/main/210041258.PNG" />
 
