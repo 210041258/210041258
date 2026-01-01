@@ -45,7 +45,8 @@
 
 ## 📜 Certifications
 - 🎓 [Harvard CS50 Certificate](https://certificates.cs50.io/bd31f01b-81bc-44bc-9f51-2165e4a7064f.pdf?size=letter)  
-- 📊 [SEMRush Digital Marketing Fundamentals](https://static.semrush.com/academy/certificates/074cbcf4be/ahmed-m-s-albreem_14.pdf)  
+- 📊 [SEMRush Digital Marketing Fundamentals](https://static.semrush.com/academy/certificates/074cbcf4be/ahmed-m-s-albreem_14.pdf)
+-  📊 [AI Visibility Essentials with Semrush](https://static.semrush.com/academy/certificates/f0381d7943/ahmed-m-s-albreem_25.pdf) 
 - 📘 [edX Profile](https://profile.edx.org/u/Albreem)  
 - 📂 [Certificate Archive (Google Drive)](https://docs.google.com/document/d/e/2PACX-1vRZpsKd_HLNKljuf5XBs7UvofJguocvI2BULt-kqk0Lt9wj7h0ISYluNtepA0JzAPNeGIssn81ofVD0/pub)
 
