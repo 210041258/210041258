@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Engineering Student | AI & Intelligent Systems Researcher  
 📍 *Islamic University of Technology (IUT), Bangladesh*  
-🕒 *Expected Graduation: 2027*  
+🕒 *Expected Graduation: Jan 2027*  
 🌍 *From Khan Yunis, Palestine*  
 🏠 *Lives in Gazipur, Dhaka, Bangladesh*  
 💬 *Relationship Status: It’s free for palestine*  
