@@ -98,5 +98,5 @@
 *Quote-Key-broan: Stability is not the objective —
 integrated life value is.*
 
-<img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://raw.githubusercontent.com/210041258/Writing-Novel/refs/heads/main/210041258.PNG" />
+<img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://raw.githubusercontent.com/210041258/Writing-Novel/refs/heads/main/SIS-IUT-MARKS/Backlog-history/XGRADE.PNG" />
 
