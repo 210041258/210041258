@@ -1,12 +1,10 @@
 # 👋 Ahmed M. S. Albreem (@210041258)
 
-### 🎓 Computer Engineering Student | AI & Intelligent Systems Researcher  
+### 🎓 Computer Student | Intelligent Systems Researcher  
 📍 *Islamic University of Technology (IUT), Bangladesh*  
-🕒 *Expected Graduation: Jan 2027*  
+🕒 *Expected Graduation: NOV 2026*  
 🌍 *From Khan Yunis, Palestine*  
-🏠 *Lives in Gazipur, Dhaka, Bangladesh*  
-💬 *Relationship Status: single*  
-📅 *Joined: August 2020*  
+🏠 *Lives in Gazipur, Bangladesh*  
 
 ---
 
