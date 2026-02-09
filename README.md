@@ -5,7 +5,7 @@
 🕒 *Expected Graduation: Jan 2027*  
 🌍 *From Khan Yunis, Palestine*  
 🏠 *Lives in Gazipur, Dhaka, Bangladesh*  
-💬 *Relationship Status: It’s free for palestine*  
+💬 *Relationship Status: single*  
 📅 *Joined: August 2020*  
 
 ---
