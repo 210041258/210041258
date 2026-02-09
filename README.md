@@ -67,21 +67,17 @@
 | **LDPlayer** | [apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html](https://apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html) |
 | **AppBrain** | [appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1](https://appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1) |
 | **CV (Google Docs)** | [View CV](https://docs.google.com/document/d/1FClX06DcknH0UmGZo-lhZAPtGgSFIMvsM-zgtANyaCA/edit?tab=t.0) |
-| **GoFundMe** | [gofundme.com/f/dr-mohammed-salem-salem-albreem](https://gofundme.com/f/dr-mohammed-salem-salem-albreem) |
 | **Research Gate** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
 | **Scholar Google** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
-| **Tron (TRONX)** | [TronScan](https://tronscan.org/#/address/TPMnWwJjfp9AQZAEijMAnf6AdmiMXziPb9) |
-| **BTC (BTC FEES IS BIT SAME FROM 21)** | [BlockChair](https://blockchair.com/bitcoin/address/1FSk6BNfLzQW3Sdgfae3Ymb4eFUvnVhwbG) |
+
 ---
 
 ## 🧾 Personal Information
 
 | Field | Details |
 |-------|----------|
-| **Full Name** | Ahmed Mohammed Salam Albreem |
 | **Student ID** | 210041258 |
 | **IUT Username** | albreem |
-| **Alt Handle** | Ahmed M. S. Albreem |
 | **Phone** | +8801986474598 |
 | **Primary Email** | amealbrem@gmail.com |
 | **Academic Email** | albreem@iut-dhaka.edu |
