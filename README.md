@@ -3,8 +3,7 @@
 ### 🎓 Computer Student | Intelligent Systems Researcher  
 📍 *Islamic University of Technology (IUT), Bangladesh*  
 🕒 *Expected Graduation: Sep 2026*  
-🌍 *From Khan Yunis, Palestine*  
-🏠 *Lives in Gazipur, Bangladesh*  
+
 
 ---
 
@@ -23,8 +22,7 @@
 - 🚗 **Vehicular Platooning Simulation (SUMO + Plexe)**  
   Conducting research on communication stability, synchronization, and cooperative control in AI-driven platoons.  
 
-- 📱 **AI-Integrated Android Applications**  
-  Prototyping intelligent systems that combine neural network inference and mobile user experiences.
+
 
 ---
 
