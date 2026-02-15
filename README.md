@@ -1,6 +1,6 @@
 # 👋 Ahmed M. S. Albreem (@210041258)
 
-### 🎓 Computer Student 
+### 🎓 Computer Student | Intelligent Systems Researcher  
 
 🕒 *Expected Graduation: Sep 2026*  
 
@@ -8,16 +8,13 @@
 ---
 
 ## 🧠 Research Focus
-- **Artificial Intelligence & Machine Learning** — deep learning, transformer architectures, and computer vision  
 - **Network & Intelligent Systems** — optimization of vehicular networks and real-time decision algorithms  
 - **Simulation Platforms** — SUMO & Plexe for vehicular platooning and intelligent mobility research  
-- **Android AI Integration** — embedding neural models into mobile apps for smart decision-making  
 
 ---
 
 ## 🔬 Current Projects
-- 🧩 **Brain Tumor Detection (ViT + Gradio)**  
-  Building a Vision Transformer–based diagnostic app integrated with Firebase and Pixeldrain for prediction storage and analysis.  
+  
 
 - 🚗 **Vehicular Platooning Simulation (SUMO + Plexe)**  
   Conducting research on communication stability, synchronization, and cooperative control in AI-driven platoons.  
@@ -31,11 +28,9 @@
 | Domain | Tools & Technologies |
 |--------|----------------------|
 | **Programming** | Python, Java, C, C++, JavaScript |
-| **AI/ML Frameworks** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
 | **Data Science** | Pandas, NumPy, Matplotlib |
 | **Simulation Tools** | SUMO, Plexe |
 | **App Development** | Android Studio, Gradio, Firebase |
-| **Version Control** | Git, GitHub |
 
 ---
 
@@ -43,7 +38,6 @@
 - 🎓 [Harvard CS50 Certificate](https://certificates.cs50.io/bd31f01b-81bc-44bc-9f51-2165e4a7064f.pdf?size=letter)  
 - 📊 [SEMRush Digital Marketing Fundamentals](https://static.semrush.com/academy/certificates/074cbcf4be/ahmed-m-s-albreem_14.pdf)
 -  📊 [AI Visibility Essentials with Semrush](https://static.semrush.com/academy/certificates/f0381d7943/ahmed-m-s-albreem_25.pdf) 
-- 📘 [edX Profile](https://profile.edx.org/u/Albreem)  
 - 📂 [Certificate Archive (Google Drive)](https://docs.google.com/document/d/e/2PACX-1vRZpsKd_HLNKljuf5XBs7UvofJguocvI2BULt-kqk0Lt9wj7h0ISYluNtepA0JzAPNeGIssn81ofVD0/pub)
 
 ---
@@ -75,15 +69,9 @@
 | Field | Details |
 |-------|----------|
 | **Student ID** | 210041258 |
-| **IUT Username** | albreem |
 | **Phone** | +8801986474598 |
-| **Primary Email** | amealbrem@gmail.com |
 | **Academic Email** | albreem@iut-dhaka.edu |
 
----
-
-## 💡 Personal Philosophy (Quote)
-> *“Engineering intelligence is not only about building smart systems — it’s about designing technologies that think, adapt, and evolve to serve humanity.”*
 
 ---
 ## 🧾 Academic Information of <a href="https://github.com/210041258/Writing-Novel/tree/main/SIS-IUT-MARKS" > SIS IUT </a>
