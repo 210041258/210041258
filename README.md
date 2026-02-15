@@ -1,6 +1,6 @@
 # 👋 Ahmed M. S. Albreem (@210041258)
 
-### 🎓 Computer Student | Intelligent Systems Researcher  
+### 🎓 Computer Student 
 
 🕒 *Expected Graduation: Sep 2026*  
 
