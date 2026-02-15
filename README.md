@@ -52,12 +52,9 @@
 | **Facebook** | [facebook.com/albreem2003](https://facebook.com/albreem2003) |
 | **Instagram** | [instagram.com/world_wx](https://instagram.com/world_wx) |
 | **APKPure (Arabic)** | [APKPure Developer Page](https://apkpure.net/developer/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%AD%D9%85%D8%AF) |
-| **APKPure (English)** | [apkpure.net/ar/developer/Ahmed%20M.%20S.%20Albreem](https://apkpure.net/ar/developer/Ahmed%20M.%20S.%20Albreem) |
 | **Napkforpc** | [napkforpc.com/apk/isc.albreem.ps](https://napkforpc.com/apk/isc.albreem.ps) |
 | **Appsindir** | [appsindir.com/apk/11042275](https://appsindir.com/apk/11042275) |
-| **Gameloop** | [gameloop.com/game/books-reference/com.albreem.personalskill](https://gameloop.com/game/books-reference/com.albreem.personalskill) |
 | **LDPlayer** | [apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html](https://apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html) |
-| **AppBrain** | [appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1](https://appbrain.com/app/increase-female-beauty/ps.albreem.thirdgroup.app1) |
 | **CV (Google Docs)** | [View CV](https://docs.google.com/document/d/1FClX06DcknH0UmGZo-lhZAPtGgSFIMvsM-zgtANyaCA/edit?tab=t.0) |
 | **Research Gate** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
 | **Scholar Google** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
