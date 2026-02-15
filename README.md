@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Student | Intelligent Systems Researcher  
 
-🕒 *Expected Graduation: Sep 2026*  
+🕒 *Expected Graduation:  29 Sep 2026*  
 
 
 ---
