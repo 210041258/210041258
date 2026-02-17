@@ -46,7 +46,6 @@
 
 | Platform | Link |
 |-----------|------|
-| **GitHub** | [github.com/210041258](https://github.com/210041258) |
 | **Old VJudge** | [vjudge.net/user/ahmed_albreem](https://vjudge.net/user/ahmed_albreem) |
 | **New VJudge** | [vjudge.net/user/ahmed_albreem_2](https://vjudge.net/user/ahmed_albreem_2) |
 | **Facebook** | [facebook.com/albreem2003](https://facebook.com/albreem2003) |
