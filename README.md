@@ -53,10 +53,9 @@
 | **APKPure (Arabic)** | [APKPure Developer Page](https://apkpure.net/developer/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%AD%D9%85%D8%AF) |
 | **Napkforpc** | [napkforpc.com/apk/isc.albreem.ps](https://napkforpc.com/apk/isc.albreem.ps) |
 | **Appsindir** | [appsindir.com/apk/11042275](https://appsindir.com/apk/11042275) |
-| **LDPlayer** | [apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html](https://apk.ldplayer.net/apps/com-albreem-care-albashra-apk.html) |
 | **CV (Google Docs)** | [View CV](https://docs.google.com/document/d/1FClX06DcknH0UmGZo-lhZAPtGgSFIMvsM-zgtANyaCA/edit?tab=t.0) |
 | **Research Gate** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
-| **Scholar Google** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
+| **Scholar Go.** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
 
 ---
 
