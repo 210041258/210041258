@@ -54,7 +54,7 @@
 | **Napkforpc** | [napkforpc.com/apk/isc.albreem.ps](https://napkforpc.com/apk/isc.albreem.ps) |
 | **Appsindir** | [appsindir.com/apk/11042275](https://appsindir.com/apk/11042275) |
 | **CV (Google Docs)** | [View CV](https://docs.google.com/document/d/1FClX06DcknH0UmGZo-lhZAPtGgSFIMvsM-zgtANyaCA/edit?tab=t.0) |
-| **Research Gate** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
+| **Research Ga.** | [https://www.researchgate.net/profile/Ahmed-M-S-Albreem](https://www.researchgate.net/profile/Ahmed-M-S-Albreem) |
 | **Scholar Go.** | [https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=7&user=fpEJL1sAAAAJ) |
 
 ---
