@@ -50,7 +50,6 @@
 | **Old VJudge** | [vjudge.net/user/ahmed_albreem](https://vjudge.net/user/ahmed_albreem) |
 | **New VJudge** | [vjudge.net/user/ahmed_albreem_2](https://vjudge.net/user/ahmed_albreem_2) |
 | **Facebook** | [facebook.com/albreem2003](https://facebook.com/albreem2003) |
-| **Instagram** | [instagram.com/world_wx](https://instagram.com/world_wx) |
 | **APKPure (Arabic)** | [APKPure Developer Page](https://apkpure.net/developer/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%AD%D9%85%D8%AF) |
 | **Napkforpc** | [napkforpc.com/apk/isc.albreem.ps](https://napkforpc.com/apk/isc.albreem.ps) |
 | **Appsindir** | [appsindir.com/apk/11042275](https://appsindir.com/apk/11042275) |
@@ -72,8 +71,7 @@
 
 ---
 ## 🧾 Academic Information of <a href="https://github.com/210041258/Writing-Novel/tree/main/SIS-IUT-MARKS" > SIS IUT </a>
-*Stability is not the objective —
-integrated life value is.*
+*The life never been stable, to search for non-values objectivness*
 
 <img width="2000" height="1200" alt="Academic_Performance_Chart" src="https://raw.githubusercontent.com/210041258/Writing-Novel/refs/heads/main/SIS-IUT-MARKS/Backlog-history/XGRADE.PNG" />
 
