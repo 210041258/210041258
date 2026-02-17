@@ -27,9 +27,9 @@
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Programming** | Python, Java, C, C++, JavaScript |
-| **Data Science** | Pandas, NumPy, Matplotlib |
-| **Simulation Tools** | SUMO, Plexe |
+| **Programming** | Python, Java, C, C++, go |
+| **Data Science** | Pandas,Matpotlib |
+| **Simulation Tools** | SUMO, Plexe , etc.. |
 | **App Development** | Android Studio, Gradio, Firebase |
 
 ---
