@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Student
 
-🕒 *Expected Graduation:  15 Oct 2026*  
+🕒 *Expected Graduation:  27 Sept. 2026*  
 
 
 ---
