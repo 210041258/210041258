@@ -1,7 +1,7 @@
 # 👋 Ahmed M. S. Albreem 
 
 
-### 🎓 Computer eng. Student
+### 🎓 Computer Student
 
 🕒 *Expected Graduation:  27 Sept. 2026*  
 
