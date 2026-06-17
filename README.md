@@ -28,8 +28,8 @@
 | Domain | Tools & Technologies |
 |--------|----------------------|
 | **Programming** | Python, Java, C, C++, go |
-| **Data Science** | Pandas,Matpotlib |
-| **Simulation Tools** | SUMO, Plexe , etc.. |
+| **Data Science** |Matpotlib |
+| **Simulation Tools** | SUMO, Plexe|
 | **App Development** | Android Studio, Gradio, Firebase |
 
 
