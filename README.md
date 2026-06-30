@@ -1,4 +1,4 @@
-# 👋 Ahmed M. S. Albreem 
+# Ahmed M. S. Albreem 
 
 
 ### 🎓 Computer Student
