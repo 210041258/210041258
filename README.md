@@ -31,6 +31,6 @@
 | **Programming** | Python, Java, C, C++, go |
 | **Data Science** |Matpotlib |
 | **Simulation Tools** | SUMO, Plexe|
-| **App Development** | Android Studio, Gradio, Firebase |
+| **App Development** | Android Studio, Firebase |
 
 
