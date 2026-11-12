@@ -115,7 +115,4 @@ To evaluate and improve real-time decision-making and cooperative behavior in in
 ---
 
 ## Contact
-
 - **GitHub:** [github.com/210041258](https://github.com/210041258)
-- **Email:** [Add your email]
-- **LinkedIn:** [Add your LinkedIn]
