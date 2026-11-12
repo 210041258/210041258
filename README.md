@@ -1,115 +1,103 @@
+Here is a generalized, fresher-friendly version suitable for entry-level roles, internships, and graduate opportunities.
+
+---
+
 # Ahmed M. Albreem
 
-**Computer Science Student**  
-Expected Graduation: 4 October 2026  
+**Computer Science Graduate / Entry-Level Candidate**  
+Programming | Data Analysis | Networking | Simulation | Intelligent Systems  
 GitHub: [github.com/210041258](https://github.com/210041258)
 
 ---
 
-## Profile Summary
+## Professional Summary
 
-Computer Science student with a developing research focus in intelligent transportation systems, vehicular networks, and simulation-driven mobility research. Current work centers on vehicular platooning, communication stability, synchronization, and cooperative control using SUMO and Plexe. Interested in applying simulation and algorithmic methods to improve real-time decision-making in intelligent vehicular networks.
+Motivated Computer Science student/soon-to-be graduate with coursework and project exposure in programming, data analysis, networking, simulation, and intelligent systems. Hands-on experience with SUMO and Plexe for vehicular platooning simulation, including scenario design and evaluation of communication and control behavior. Seeking entry-level opportunities in software development, data analysis, networking, simulation, or intelligent systems where analytical and technical skills can be applied and further developed.
 
 ---
 
 ## Education
 
 **Bachelor of Science in Computer Science**  
-[University Name], [Country]  
-Expected Graduation: 4 October 2026
+[IUT], [BD]  
+Expected Graduation: October 2026
 
-Relevant areas of study include programming, algorithms, data analysis, simulation, and intelligent systems.
-
----
-
-## Research Interests
-
-- Network and intelligent systems
-- Optimization of vehicular networks
-- Real-time decision algorithms
-- Vehicular platooning and cooperative control
-- Communication stability and synchronization in platoons
-- Simulation platforms for intelligent mobility
-- AI-driven decision-making in transportation systems
+Relevant areas of study:  algorithms , networking, and intelligent systems.
 
 ---
 
-## Current Research
+## Areas of Interest
 
-### Vehicular Platooning Simulation with SUMO and Plexe
+- Software development and programming
+- Data analysis and visualization
+- Networking and intelligent systems
+- Simulation and modeling
+- Intelligent transportation systems and vehicular networks
+- AI and machine learning applications
+- Real-time decision-making and optimization
 
-**Research focus:** Communication stability, synchronization, and cooperative control in AI-driven vehicular platoons.
+---
 
-**Project overview:**  
-This research investigates how simulation can be used to evaluate platoon behavior under different communication and control conditions. The work aims to support the design of more stable and efficient cooperative driving strategies for intelligent vehicular networks.
+## Academic Project
 
-**Research areas:**
+### Vehicular Platooning Simulation with SUMO
+
+**Project Focus:** synchronization, and cooperative control in vehicular platooning scenarios.
+
+**Project Overview:**  
+Evaluated how simulation can be used to study platoon behavior under different communication and control conditions. The project supports the design of more stable and efficient cooperative driving strategies for intelligent vehicular networks.
+
+**Key Areas:**
 - Platoon communication and synchronization
 - Cooperative control in vehicular platoons
-- Real-time decision-making in intelligent mobility systems
-- Simulation-based evaluation of vehicular network performance
+- Real-time decision-making in mobility systems
+- Simulation-based evaluation of network performance
 
-**Methods and tools:**
+**Tools and Methods:**
 - SUMO for traffic simulation
 - Plexe for vehicular platooning simulation
 - Scenario-based evaluation of communication and control behavior
 
-**Objective:**  
-To evaluate and improve real-time decision-making and cooperative behavior in intelligent vehicular networks through simulation-based research.
+**Project Objective:**  
+Evaluate and improve real-time decision-making and cooperative behavior in intelligent vehicular networks through simulation-based analysis.
 
-**Expected outcomes:**
+**Learning Outcomes:**
 - Improved understanding of communication stability in platooning scenarios
 - Identification of synchronization and control challenges
-- Simulation-based insights for future intelligent transportation systems
+- Practical exposure to simulation-based evaluation of intelligent transportation systems
 
 ---
 
-## Research Methodology
+## Project Methodology
 
-- Review of relevant literature on vehicular networks and platooning
-- Design of simulation scenarios using SUMO and Plexe
-- Evaluation of communication stability and synchronization behavior
-- Analysis of cooperative control performance
-- Documentation and interpretation of simulation results
+- Designed simulation scenarios using SUMO and Plexe.
+- Evaluated communication stability and synchronization behavior.
+- Analyzed cooperative control performance.
 
 ---
 
 ## Technical Skills
 
 | Area | Tools and Technologies |
-|------|------------------------|
-| **Programming Languages** | Python, Java, C, C++, Go, JavaScript, SQL |
-| **Data Visualization & Analysis** | Matplotlib, Pandas, NumPy, Seaborn, Plotly |
-| **Simulation and Modeling** | SUMO, Plexe, OMNeT++, NS-3, MATLAB/Simulink |
-| **AI & Machine Learning** | TensorFlow, PyTorch, Scikit-learn, OpenAI Gym, Reinforcement Learning |
-| **Networking & Protocols** | TCP/IP, VANETs, IEEE 802.11p, C-V2X, DSRC, MQTT |
-| **Application Development** | Android Studio, Firebase, REST APIs, Flutter |
-| **Version Control & Collaboration** | GitHub, Git, Docker, CI/CD (GitHub Actions) |
-| **Operating Systems** | Linux (Ubuntu), Windows, macOS |
-| **Cloud & Databases** | Firebase, MySQL, SQLite, Google Cloud Platform |
-| **Other Tools** | LaTeX, Jupyter Notebook, VS Code, Eclipse |
+|---|---|
+| **Core Programming & Analysis** | Python, Java, C/C++, MATLAB, SQL; Pandas, NumPy, Matplotlib, SciPy; Git/GitHub; Linux; LaTeX, Jupyter Notebook |
+| **Simulation & Networking** | SUMO, Plexe, OMNeT++, NS-3, Veins; UDP, HTTP/HTTPS, MQTT, VANETs|
+| **AI & Machine Learning Exposure** | TensorFlow, PyTorch, Scikit-learn, OpenAI Gym, Stable Baselines3, OpenCV, Natural Language Processing |
+| **Data Visualization & Analysis** | Seaborn, Plotly, SymPy, Tableau, Power BI|
+| **Application & Web Development Exposure** | Android Studio, Firebase, REST APIs, GraphQL, Flutter, React, Node.js, Django, Spring Boot, Express.js |
+| **DevOps & Collaboration Exposure** | GitLab, Bitbucket, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Terraform, Ansible |
+| **Cloud & Databases** | Firebase, MySQL, PostgreSQL, SQLite, MongoDB, Redis, Google Cloud Platform, AWS, Microsoft Azure |
+| **Operating Systems & Tools** | Linux, Windows, macOS, FreeRTOS, Raspberry Pi OS; VS Code, Eclipse, IntelliJ IDEA, PyCharm, Postman, Jira, Confluence, Slack, GNS3, Cisco Packet Tracer |
+| **Additional Programming Languages** |  Rust, JavaScript, Kotlin|
+| **Additional Simulation & Modeling** | MATLAB/Simulink|
 
 ---
 
-## Areas of Interest
+## Career Objectives
 
-- Intelligent Transportation Systems
-- Vehicular Ad Hoc Networks
-- Cooperative Driving and Platooning
-- Simulation-Based Research
-- Real-Time Decision Algorithms
-- Network Optimization
-- AI for Mobility Systems
-
----
-
-## Academic and Professional Goals
-
-- Develop strong research skills in intelligent transportation and vehicular network simulation
-- Contribute to simulation-based studies on platooning and cooperative control
-- Strengthen skills in programming, data analysis, and system modeling
-- Build a portfolio of research and technical projects through GitHub
-- Prepare for advanced study or professional work in intelligent systems and networked mobility
+- Build a strong foundation in software development, data analysis, networking, and simulation.
+- Contribute to practical projects involving intelligent systems, mobility, and network optimization.
+- Strengthen programming, analytical, and system modeling skills through hands-on work.
 
 ---
 
@@ -119,5 +107,4 @@ To evaluate and improve real-time decision-making and cooperative behavior in in
 
 ---
 
-## Contact
-- **GitHub:** [github.com/210041258](https://github.com/210041258)
+**Note:** Replace `[University Name]` and `[Country]` with your actual details before submission. For fresher applications, consider trimming the “Additional” skills to those you can confidently discuss in an interview.
