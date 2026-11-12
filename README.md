@@ -1,4 +1,4 @@
-# Ahmed M. S. Albreem
+# Ahmed M. Albreem
 
 **Computer Science Student**  
 Expected Graduation: 4 October 2026  
