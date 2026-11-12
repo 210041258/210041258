@@ -1,4 +1,3 @@
-Here is a generalized, fresher-friendly version suitable for entry-level roles, internships, and graduate opportunities.
 
 ---
 
