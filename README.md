@@ -78,11 +78,16 @@ To evaluate and improve real-time decision-making and cooperative behavior in in
 
 | Area | Tools and Technologies |
 |------|------------------------|
-| **Programming Languages** | Python, Java, C, C++, Go |
-| **Data Visualization** | Matplotlib |
-| **Simulation and Modeling** | SUMO, Plexe |
-| **Application Development** | Android Studio, Firebase |
-| **Version Control and Collaboration** | GitHub |
+| **Programming Languages** | Python, Java, C, C++, Go, JavaScript, SQL |
+| **Data Visualization & Analysis** | Matplotlib, Pandas, NumPy, Seaborn, Plotly |
+| **Simulation and Modeling** | SUMO, Plexe, OMNeT++, NS-3, MATLAB/Simulink |
+| **AI & Machine Learning** | TensorFlow, PyTorch, Scikit-learn, OpenAI Gym, Reinforcement Learning |
+| **Networking & Protocols** | TCP/IP, VANETs, IEEE 802.11p, C-V2X, DSRC, MQTT |
+| **Application Development** | Android Studio, Firebase, REST APIs, Flutter |
+| **Version Control & Collaboration** | GitHub, Git, Docker, CI/CD (GitHub Actions) |
+| **Operating Systems** | Linux (Ubuntu), Windows, macOS |
+| **Cloud & Databases** | Firebase, MySQL, SQLite, Google Cloud Platform |
+| **Other Tools** | LaTeX, Jupyter Notebook, VS Code, Eclipse |
 
 ---
 
