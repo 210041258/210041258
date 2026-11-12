@@ -54,5 +54,4 @@ Investigating communication stability, synchronization, and cooperative control 
 ## Contact
 
 - **GitHub:** [github.com/210041258](https://github.com/210041258)
-- **Email:** [Add your email]
-- **LinkedIn:** [Add your LinkedIn]
+
