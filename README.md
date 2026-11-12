@@ -98,13 +98,7 @@ Evaluate and improve real-time decision-making and cooperative behavior in intel
 - Build a strong foundation in software development, data analysis, networking, and simulation.
 - Contribute to practical projects involving intelligent systems, mobility, and network optimization.
 - Strengthen programming, analytical, and system modeling skills through hands-on work.
-
 ---
-
 ## Links
-
 - **GitHub:** [github.com/210041258](https://github.com/210041258)
-
 ---
-
-**Note:** Replace `[University Name]` and `[Country]` with your actual details before submission. For fresher applications, consider trimming the “Additional” skills to those you can confidently discuss in an interview.
