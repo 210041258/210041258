@@ -19,7 +19,7 @@ Motivated Computer Science student/soon-to-be graduate with coursework and proje
 
 **Bachelor of Science in Computer Science**  
 [IUT], [BD]  
-Expected Graduation: October 2026
+ Graduated : October 2026
 
 Relevant areas of study:  algorithms , networking, and intelligent systems.
 
