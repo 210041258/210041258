@@ -3,8 +3,8 @@
 
 # Ahmed M. Albreem
 
-**Computer Science Graduate / Entry-Level Candidate**  
-Programming | Data Analysis | Networking | Simulation | Intelligent Systems  
+**Computer Science Graduate / Entry-Level Candidate **  
+Programming | Data Analysis | Networking | Intelligent Systems  
 GitHub: [github.com/210041258](https://github.com/210041258)
 
 ---
